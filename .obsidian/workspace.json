@@ -12,13 +12,8 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/0-Work/ack集群引入istio服务网格操作日志.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true
             }
           },
@@ -26,39 +21,24 @@
             "id": "b0bda005bb73c4ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/0-Work/自建k8s与使用阿里云ack优缺点分析.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "d516f152dfc452a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/0-Work/ack集群引入istio服务网格操作日志.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "a3b26d0e05bafddd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/0-Work/gitops.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -67,7 +47,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/永久笔记/gitignore 语法.md",
+                "file": "🧰 本库指南/🍫 本库方法论指南.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff032b4d13d6f672",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/3-Resource/效率工具与服务专题/MacOS 软件使用/滴答清单.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "407756608c9bedf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AboutTheGarden.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -75,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/永久笔记/gitignore 语法.md",
+                "file": "AboutTheGarden.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/永久笔记/gitignore 语法.md",
+                "file": "AboutTheGarden.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +192,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8974052540515883,
+                  "scale": 0.8072458872274492,
                   "close": true
                 }
               }
@@ -198,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/永久笔记/gitignore 语法.md",
+                "file": "AboutTheGarden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/永久笔记/gitignore 语法.md"
+                "file": "AboutTheGarden.md"
               }
             }
           }
@@ -235,17 +241,6 @@
             "state": {
               "type": "chronology-calendar-view",
               "state": {}
-            }
-          },
-          {
-            "id": "71abb33cf87cd2d8",
-            "type": "leaf",
-            "state": {
-              "type": "daily-note-outline",
-              "state": {
-                "activeSet": 0,
-                "activeGranularity": 1
-              }
             }
           },
           {
@@ -287,6 +282,27 @@
               "type": "copilot-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "d510ac6ea99e4b67",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "ad0ae64082eaaa79",
+            "type": "leaf",
+            "state": {
+              "type": "daily-note-outline",
+              "state": {
+                "activeSet": 0,
+                "activeGranularity": 0
+              }
+            }
           }
         ]
       }
@@ -302,28 +318,35 @@
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "dbfolder:创建一个新数据库表": false,
-      "janitor:Janitor: scan vault": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-spaced-repetition:复习卡片": false,
       "publish:发布更改": false,
-      "obsidian-projects:Open projects": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "cmdr:聚焦上方标签页组": false,
       "cmdr:聚焦左侧标签页组": false,
-      "copilot:Copilot Chat": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "notion-like-tables:Create new loom": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-spaced-repetition:复习卡片": false,
       "periodic-notes:Open today": false,
+      "copilot:Copilot Chat": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "omnisearch:Omnisearch": false,
+      "notion-like-tables:Create new loom": false,
+      "dbfolder:创建一个新数据库表": false,
       "obsidian-weread-plugin:Weread": false,
+      "obsidian-projects:Open projects": false,
+      "webpage-html-export:Export Vault to HTML": false,
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "edae943cd3592658",
+  "active": "407756608c9bedf4",
   "lastOpenFiles": [
+    "MySQL.md",
+    "Spaces/3-Resource/效率工具与服务专题/MacOS 软件使用/Amphetamine.md",
+    "Atlas/Dashborads/Untitled 2.loom",
+    "Spaces/2-Area/运动与健康/油猴脚本开发.md",
+    "Spaces/3-Resource/效率工具与服务专题/MacOS 软件使用/滴答清单.md",
+    "🧰 本库指南/🍫 本库方法论指南.md",
+    "Cards/永久笔记/gitignore 语法.md",
     "Sources/Articles/常青笔记阅读笔记/创建超链接到我的参考档案.md",
     "Spaces/0-Work/Daily notes/2023-08-23.md",
     "Extras/Media/Pasted image 20230823192405.png",
@@ -347,17 +370,11 @@
     "rocketMQ.md",
     "Spaces/0-Work/azure openai from 秦旭.md",
     "Spaces/0-Work/99-映兔知识库/映兔术语整理.md",
-    "Spaces/0-Work/现有自建k8s集群迁移到阿里云ack技术方案.md",
-    "Spaces/0-Work/后端应用安装指导书.md",
     "Atlas/Dashborads/Untitled 1.loom",
-    "MySQL.md",
     "Spaces/0-Work/ack集群引入istio服务网格的技术调研.docx",
-    "Spaces/0-Work/Daily notes/算法安全自评估制度建设.md",
     "Spaces/0-Work/Daily notes/算法安全自评估制度建设.docx",
     "Extras/Media/Pasted image 20230822134833.png",
     "Extras/Media/Pasted image 20230822103627.png",
-    "Spaces/0-Work/架构图的技巧和方法.md",
-    "Spaces/0-Work/Daily notes/Chat Models 模型.md",
     "Spaces/0-Work/Canvas/测试环境集群部署资源.canvas",
     "Spaces/0-Work/Canvas/映兔后端部署架构图.canvas",
     "未命名.canvas",
@@ -376,7 +393,6 @@
     "Spaces/0-Work/99-映兔知识库/000-映兔新人快速入门索引 - MOC.docx",
     "tmp/Spaces/映兔现有公共文档通读和学习.docx",
     "tmp/Spaces/Terway.docx",
-    "tmp/Spaces/映兔入职第一天日志.docx",
     "tmp/Spaces/0-Work/Canvas/语义化搜索流程图.canvas",
     "tmp/Spaces/0-Work/Canvas/映兔研发部署环境全貌.canvas",
     "tmp/Spaces/0-Work/Canvas/映兔研发Devops流水线全貌.canvas"
